@@ -1,1 +1,2 @@
 Content of 2.txt
+Something extra
